@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salman H</h1>
 <h3 align="center">Emerging Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Data Science**
+- 🌱 I’m currently learning **Google Cloud, Python, SQL**
 
 - 📫 How to reach me **mohammed.salman.ha@gmail.com**
 
